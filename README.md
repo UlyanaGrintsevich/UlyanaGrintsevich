@@ -4,6 +4,6 @@
 <h3 align="center">Начинающий frontend-разработчик и html-верстальщик из Минска (Беларусь)</h3>
 <h4>Мои навыки:</h4>
 
-[Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
