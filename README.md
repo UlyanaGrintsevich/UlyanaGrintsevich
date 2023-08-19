@@ -38,7 +38,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   <a href="https://t.me/ulya_grintsevich" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=[https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
