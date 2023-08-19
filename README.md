@@ -7,7 +7,7 @@
 <p>I am considering the profession of a frontent developer or html coder. I have completed courses on frontend development, I am looking for an opportunity to put my knowledge into practice. I am easy to learn, I work well in a team, I am hardworking, sociable and creativity. Ready to complete a course task to demonstrate the level of skills.</p>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
 
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
