@@ -1,7 +1,8 @@
 <h1 align="center">Hello, I'm Ulyana
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a novice frontend-developer and html-coder</h3>
-<br/>  
+<br/> 
+
 ## My Skills  
 <table><tr><td valign="top" width="33%">
   
