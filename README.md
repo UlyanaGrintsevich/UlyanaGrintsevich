@@ -3,6 +3,8 @@
 <h3 align="center">I am a novice frontend-developer and html-coder</h3>
 <br/> 
 
+## About Me 
+<p>I am considering the profession of a frontent developer or html coder. I have completed courses on frontend development, I am looking for an opportunity to put my knowledge into practice. I am easy to learn, I work well in a team, I am hardworking, sociable and creativity. Ready to complete a course task to demonstrate the level of skills.</p>
 ## My Skills  
 <table><tr><td valign="top" width="33%">
   
