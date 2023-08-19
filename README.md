@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ulyana
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend-developer / html-coder</h3>
-<br/> 
+
 
 ## About Me 
 <p>I am considering the profession of a frontent developer or html coder. I have completed courses on frontend development, I am looking for an opportunity to put my knowledge into practice. I am easy to learn, I work well in a team, I am hardworking, sociable and creativity. Ready to complete a course task to demonstrate the level of skills.</p>
