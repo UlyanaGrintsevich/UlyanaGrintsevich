@@ -7,7 +7,7 @@
 <p>I am considering the profession of a frontent developer or html coder. I have completed courses on frontend development, I am looking for an opportunity to put my knowledge into practice. I am easy to learn, I work well in a team, I am hardworking, sociable and creativity. Ready to complete a course task to demonstrate the level of skills.</p>
 
 ## My Skills  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
   
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -17,7 +17,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
