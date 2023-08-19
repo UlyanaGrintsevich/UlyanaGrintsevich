@@ -1,26 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-# <div align="center">I'm Ulyana, а novice frontend developer and html coder</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
+<h1 align="center">Hello, I'm <a href="https://daniilshat.ru/" target="_blank">Ulyana</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I am a novice frontend-developer and html-coder</h3>
 <br/>  
-
-
 ## My Skills  
 <table><tr><td valign="top" width="33%">
   
